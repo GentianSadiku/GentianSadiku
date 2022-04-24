@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer, who likes building new things.
-
-**About me**
-
-- 📱 My latest project [→](https://apps.apple.com/us/app/tale-ig-story-template/id1589327414)
-
-- 👨🏻‍🔬 I like experimenting with new technologies.
-
-- 🐦 you can reach me on Twitter [→](https://twitter.com/sadikugentian)
+Interested in Web3 & Product Design.
 
 **Languages and Tools:**
 
